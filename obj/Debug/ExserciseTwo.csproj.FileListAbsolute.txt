@@ -1,0 +1,6 @@
+C:\programming\ForthHomeWorkOOP\ExserciseTwo\bin\Debug\ExserciseTwo.exe.config
+C:\programming\ForthHomeWorkOOP\ExserciseTwo\bin\Debug\ExserciseTwo.exe
+C:\programming\ForthHomeWorkOOP\ExserciseTwo\bin\Debug\ExserciseTwo.pdb
+C:\programming\ForthHomeWorkOOP\ExserciseTwo\obj\Debug\ExserciseTwo.exe
+C:\programming\ForthHomeWorkOOP\ExserciseTwo\obj\Debug\ExserciseTwo.pdb
+C:\programming\ForthHomeWorkOOP\ExserciseTwo\obj\Debug\ExserciseTwo.csprojResolveAssemblyReference.cache
